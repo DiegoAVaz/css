@@ -1,0 +1,33 @@
+h4{
+    color: #ffffff;
+    border: dotted white 5px;
+    /*
+    border-style: dotted;
+    border-color: #ffffff;
+    border-width: 5px;
+    */
+}
+
+ul{
+    color: rgb(214, 170, 255);
+    font-size: 20px;
+}
+
+body{
+    /* background-color: #dad7cd; */
+    background-image: url('int.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.filmes{
+    color: rgb(221, 128, 128);
+}
+
+.filmes2{
+    color: rgb(201, 182, 182);
+}
+
+#title{
+    color: #ffffff73;
+}
